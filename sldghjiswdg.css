@@ -1,0 +1,12 @@
+div {
+    color: #ffffff;
+    background: url(https://iis.guu.ru/wp-content/uploads/2023/04/4f026afb9343ff14af0c55bfb3c15818.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+div h1 {
+    font-size: 500%;
+    padding-top: 200px;
+}
